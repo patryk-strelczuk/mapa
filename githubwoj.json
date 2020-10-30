@@ -7560,7 +7560,7 @@
 						"ISO": "POL",
 						"NAME_0": "Poland",
 						"ID_1": 1,
-						"NAME_1": "Łódź",
+						"NAME_1": "ŁÓDŹ",
 						"TYPE_1": "Województwo",
 						"ENGTYPE_1": "Voivodeship|Province",
 						"VARNAME_1": "Lódzkie"
@@ -7582,7 +7582,7 @@
 						"ISO": "POL",
 						"NAME_0": "Poland",
 						"ID_1": 2,
-						"NAME_1": "Kielce",
+						"NAME_1": "KIELCE",
 						"TYPE_1": "Województwo",
 						"ENGTYPE_1": "Voivodeship|Province",
 						"VARNAME_1": "Swietokrzyskie"
@@ -7605,7 +7605,7 @@
 						"ISO": "POL",
 						"NAME_0": "Poland",
 						"ID_1": 3,
-						"NAME_1": "Poznań",
+						"NAME_1": "POZNAŃ",
 						"TYPE_1": "Województwo",
 						"ENGTYPE_1": "Voivodeship|Province",
 						"VARNAME_1": "Wielkopolskie"
@@ -7626,7 +7626,7 @@
 						"ISO": "POL",
 						"NAME_0": "Poland",
 						"ID_1": 4,
-						"NAME_1": "Bydgoszcz",
+						"NAME_1": "BYDGOSZCZ",
 						"TYPE_1": "Województwo",
 						"ENGTYPE_1": "Voivodeship|Province",
 						"VARNAME_1": "Kujawsko-Pomorskie"
@@ -7646,7 +7646,7 @@
 						"ISO": "POL",
 						"NAME_0": "Poland",
 						"ID_1": 5,
-						"NAME_1": "Kraków",
+						"NAME_1": "KRAKÓW",
 						"TYPE_1": "Województwo",
 						"ENGTYPE_1": "Voivodeship|Province",
 						"VARNAME_1": "Malopolskie"
@@ -7666,7 +7666,7 @@
 						"ISO": "POL",
 						"NAME_0": "Poland",
 						"ID_1": 6,
-						"NAME_1": "Wrocław",
+						"NAME_1": "WROCŁAW",
 						"TYPE_1": "Województwo",
 						"ENGTYPE_1": "Voivodeship|Province",
 						"VARNAME_1": "Dolnoslaskie"
@@ -7687,7 +7687,7 @@
 						"ISO": "POL",
 						"NAME_0": "Poland",
 						"ID_1": 7,
-						"NAME_1": "Lublin",
+						"NAME_1": "LUBLIN",
 						"TYPE_1": "Województwo",
 						"ENGTYPE_1": "Voivodeship|Province",
 						"VARNAME_1": "Lubelskie"
@@ -7707,7 +7707,7 @@
 						"ISO": "POL",
 						"NAME_0": "Poland",
 						"ID_1": 8,
-						"NAME_1": "Zielona Góra",
+						"NAME_1": "ZIELONA GÓRA",
 						"TYPE_1": "Województwo",
 						"ENGTYPE_1": "Voivodeship|Province",
 						"VARNAME_1": "Lubuskie"
@@ -7729,7 +7729,7 @@
 						"ISO": "POL",
 						"NAME_0": "Poland",
 						"ID_1": 9,
-						"NAME_1": "Warszawa",
+						"NAME_1": "WARSZAWA",
 						"TYPE_1": "Województwo",
 						"ENGTYPE_1": "Voivodeship|Province",
 						"VARNAME_1": "Mazowieckie"
@@ -7750,7 +7750,7 @@
 						"ISO": "POL",
 						"NAME_0": "Poland",
 						"ID_1": 10,
-						"NAME_1": "Opole",
+						"NAME_1": "OPOLE",
 						"TYPE_1": "Województwo",
 						"ENGTYPE_1": "Voivodeship|Province",
 						"VARNAME_1": "Opolskie"
@@ -7770,7 +7770,7 @@
 						"ISO": "POL",
 						"NAME_0": "Poland",
 						"ID_1": 11,
-						"NAME_1": "Białystok",
+						"NAME_1": "BIAŁYSTOK",
 						"TYPE_1": "Województwo",
 						"ENGTYPE_1": "Voivodeship|Province",
 						"VARNAME_1": "Podlaskie"
@@ -7798,7 +7798,7 @@
 						"ISO": "POL",
 						"NAME_0": "Poland",
 						"ID_1": 12,
-						"NAME_1": "Gdańsk",
+						"NAME_1": "GDAŃSK",
 						"TYPE_1": "Województwo",
 						"ENGTYPE_1": "Voivodeship|Province",
 						"VARNAME_1": "Pomorskie"
@@ -7819,7 +7819,7 @@
 						"ISO": "POL",
 						"NAME_0": "Poland",
 						"ID_1": 13,
-						"NAME_1": "Katowice",
+						"NAME_1": "KATOWICE",
 						"TYPE_1": "Województwo",
 						"ENGTYPE_1": "Voivodeship|Province",
 						"VARNAME_1": "Slaskie"
@@ -7839,7 +7839,7 @@
 						"ISO": "POL",
 						"NAME_0": "Poland",
 						"ID_1": 14,
-						"NAME_1": "Rzeszów",
+						"NAME_1": "RZESZÓW",
 						"TYPE_1": "Województwo",
 						"ENGTYPE_1": "Voivodeship|Province",
 						"VARNAME_1": "Podkarpackie"
@@ -7860,7 +7860,7 @@
 						"ISO": "POL",
 						"NAME_0": "Poland",
 						"ID_1": 15,
-						"NAME_1": "Olsztyn",
+						"NAME_1": "OLSZTYN",
 						"TYPE_1": "Województwo",
 						"ENGTYPE_1": "Voivodeship|Province",
 						"VARNAME_1": "Warminsko-Mazurskie"
@@ -7902,7 +7902,7 @@
 						"ISO": "POL",
 						"NAME_0": "Poland",
 						"ID_1": 16,
-						"NAME_1": "Szczecin",
+						"NAME_1": "SZCZECIN",
 						"TYPE_1": "Województwo",
 						"ENGTYPE_1": "Voivodeship|Province",
 						"VARNAME_1": "Zachodniopomorskie"
